@@ -181,7 +181,7 @@ nav li a:hover{
 
 
 .landing{
-    background-image: url(/images/landing\ pc\ 4.jpg);
+    background-image: url(images/landing\ pc\ 4.jpg);
     background-size: cover;
     min-height: 100vh;
     position: relative;
@@ -221,7 +221,7 @@ cursor: pointer;
 
 @media (max-width:767px) {
     .landing{
-        background-image: url(/images/landing\ mobile.jpg);
+        background-image: url(images/landing\ mobile.jpg);
         display: flex;
         justify-content: center;
         align-items: center;
@@ -453,7 +453,7 @@ padding-left: 40px;
 
 .content-prot{
     margin-top: var(--sec-padding);
-    background-image: url(/images/wallpaperflare.com_wallpaper\ \(8\).jpg);
+    background-image: url(images/wallpaperflare.com_wallpaper\ \(8\).jpg);
     background-size: cover;
     min-height: 90vh;
     position: relative;
@@ -506,7 +506,7 @@ padding-left: 40px;
 .stats{
 margin-top: var(--sec-padding);
 margin-bottom: var(--sec-padding);
-background-image: url(/images/stats.jpg);
+background-image: url(images/stats.jpg);
 background-size: cover;
 }
 
@@ -687,7 +687,7 @@ color: white;
 
 .after-skills{
     margin-bottom: 30px;
-    background-image: url(/images/prot8.jpg);
+    background-image: url(images/prot8.jpg);
     height: 80vh;
     background-size: cover;
     display: flex;
