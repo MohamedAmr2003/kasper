@@ -221,7 +221,7 @@ cursor: pointer;
 
 @media (max-width:767px) {
     .landing{
-        background-image: url(images/landing\ mobile.jpg);
+        background-image: url(images/landing mobile.jpg);
         display: flex;
         justify-content: center;
         align-items: center;
