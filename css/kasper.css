@@ -181,7 +181,7 @@ nav li a:hover{
 
 
 .landing{
- background-image: url(https://www.wallpaperflare.com/owl-4k-windows-background-wallpaper-tztnd);
+ background-image: url(https://c4.wallpaperflare.com/wallpaper/932/769/299/owl-4k-windows-background-wallpaper-preview.jpg);
     background-size: cover;
     min-height: 100vh;
     position: relative;
@@ -221,7 +221,7 @@ cursor: pointer;
 
 @media (max-width:767px) {
     .landing{
-         background-image: url(https://www.wallpaperflare.com/owl-bird-of-prey-eurasian-eagle-owl-fauna-wildlife-animal-wallpaper-mdjiz);
+         background-image: url(https://c4.wallpaperflare.com/wallpaper/409/457/173/owl-bird-of-prey-eurasian-eagle-owl-bird-wallpaper-preview.jpg);
         display: flex;
         justify-content: center;
         align-items: center;
